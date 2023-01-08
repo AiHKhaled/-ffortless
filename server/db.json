@@ -1,0 +1,18 @@
+{
+  "chits": [
+    {
+      "id": 1,
+      "author": "Nauman",
+      "handle": "@recluze",
+      "content": "Some chit content here",
+      "likes": 13
+    },
+    {
+      "id": 2,
+      "author": "Not Rich Harris",
+      "handle": "@notrich",
+      "content": "Awesome new backend chit!",
+      "likes": 21
+    }
+  ]
+}
